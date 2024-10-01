@@ -27,6 +27,6 @@ export default function RootLayout({
         <Footer />
         <Sidebar/>
         </body>
-    </html>
+    </html> 
   );
 }
